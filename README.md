@@ -1,4 +1,4 @@
-# Data-Analytics--T20-Cricket-analysis-
+# End to End Data-Analytics--T20-Cricket-analysis-
 ## Problem statement:
 - Create a team of best 11 for T20 world cup
 ## Application:
